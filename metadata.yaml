@@ -1,0 +1,37 @@
+_repo: Les-r-prouv-s-et-les--lus--t.1-_42924
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42924-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Souvestre, Émile
+    alias: Souvestre, Emile
+    birthdate: 1806
+    deathdate: 1854
+    gutenberg_agent_id: '1351'
+    url: http://www.gutenberg.org/2009/agents/1351
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2013-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42924'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, French'
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+tableOfContents: Au lecteur -- Une maison isolée -- Les trois compagnons -- Les parents
+  -- La tutelle -- Seize ans après -- La Forge des Buttes -- Trois amis du grand monde
+  -- La villa de madame de Luxeuil -- Le vieux portrait -- L’agneau blanc -- Esquisses
+  du grand monde -- Une maison de la rue des Morts -- Un vieil ami du genre humain
+  -- Une fille mère -- Le ménage de mademoiselle Clotilde -- Un complot de famille
+  -- La révélation -- . . . .  -- Une fête dans un grenier -- M. Michel -- Les deux
+  cousins -- Esquisses du peuple -- Une rencontre -- Denoûment -- Le voyageur de l’hôtel
+  des Étrangers -- La mère Louis -- L’idée fixe -- Explications.
+title: Les réprouvés et les élus (t.1)
+url: http://www.gutenberg.org/ebooks/42924
